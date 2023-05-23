@@ -1,6 +1,5 @@
 {
   "name": "cincosol_modern_app",
-  "homepage": ".",
   "private": true,
   "version": "0.0.0",
   "type": "module",
