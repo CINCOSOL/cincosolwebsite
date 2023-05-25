@@ -25,7 +25,7 @@ const router = createBrowserRouter([
     path: "/contactus",
     element: <ContactUs />,
   },
-]);
+],{basename:'/cincosolwebsite'});
 
 ReactDOM.createRoot(document.getElementById("root")).render(
   <React.StrictMode>
